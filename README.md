@@ -16,3 +16,9 @@
 このガスは鳥類などに特に有害であり、死亡例もあります。  
 テフロンの危険性については以下のリンクを確認してください。  
 https://anzeninfo.mhlw.go.jp/anzen/gmsds/0156.html  
+
+## 使用しているルブオイルについて
+- Denis Wick Advanced Formula Oil With PTFE
+  - テフロンを含有した楽器用オイルです。
+- Yamaha VOSPL3
+  - 通常の楽器オイルです。
